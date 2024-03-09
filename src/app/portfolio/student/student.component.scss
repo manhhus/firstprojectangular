@@ -1,0 +1,35 @@
+/* Styling for the form container */
+.form-container {
+    max-width: 400px; /* Adjust as needed */
+    margin: 0 auto; /* Center the form container */
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for input fields */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  /* Styling for buttons */
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for buttons */
+  .button:hover {
+    background-color: #45a049;
+  }
+  

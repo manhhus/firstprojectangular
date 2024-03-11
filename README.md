@@ -1,3 +1,5 @@
+![image](https://github.com/manhhus/firstprojectangular/assets/87703798/09dafbc8-e92a-477e-96ef-228fd741f5a1)
+![image](https://github.com/manhhus/firstprojectangular/assets/87703798/285e19b3-3b96-44e0-8e88-e9d280bd6130)
 # FirstProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
